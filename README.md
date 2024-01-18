@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Banann23
-- 👀 I’m interested in programming, cars and MTB
+- 👀 I’m interested in programming, fishing, cars and MTB
 - 🌱 I’m currently learning C++, Python, JS and PHP
 
 <!---
