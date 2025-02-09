@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Banann23
-- 👀 I’m interested in programming, fishing, cars and MTB
-- 🌱 I’m currently learning C++, Python, JS and PHP
+- 👀 I’m interested in coding, fishing and cars
+- 🌱 I’m currently learning Flutter, Dart, JS and PHP
 
 <!---
 Banann23/Banann23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
