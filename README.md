@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Banann23
-- 👀 I’m interested in web development, cars and fishing
+- 👀 I’m interested in mobile and web development, cars and fishing
 - 🌱 I’m currently learning Flutter, Dart, JS and PHP
 
 <!---
