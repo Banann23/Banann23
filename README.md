@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Banann23
 - 👀 I’m interested in mobile and web development, cars and fishing
-- 🌱 I’m currently learning Flutter, Dart, JS and PHP
+- 🌱 I’m currently learning Flutter and React
 
 <!---
 Banann23/Banann23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
