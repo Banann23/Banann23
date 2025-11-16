@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">A passionate front-end & mobile developer from Poland</h3>
+<h1 align="left">Hi 👋, I'm Hubert</h1>
+<h3 align="left">A passionate front-end & mobile developer from Poland</h3>
 
 - 🌱 I’m currently learning **React, Typescript and Tailwind CSS**
 
