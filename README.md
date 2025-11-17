@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Hubert</h1>
 <h3 align="left">Front-end & mobile developer building fast, modern web experiences</h3>
 
-- 🔭 I’m currently working on **my Portfolio Website** | 🌱 I’m currently learning **React, Typescript and Tailwind CSS**
+- 🔭 I’m currently working on **my Portfolio Website**
+
+- 🌱 I’m currently learning **React, Typescript and Tailwind CSS**
 
 - 📫 How to reach me **hubert.ba.dev@gmail.com**
 
