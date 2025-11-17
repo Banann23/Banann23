@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hubert</h1>
-<h3 align="left">Front-end & mobile developer building fast, modern web experiences</h3>
+<h3 align="left">Front-end & mobile developer building fast, modern websites</h3>
 
 - 🔭 I’m currently working on **my Portfolio Website**
 
