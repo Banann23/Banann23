@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Typescript and Tailwind CSS**
 
-- 📫 How to reach me **hubert.ba.dev@gmail.com**
+- 📫 How to reach me **contact@hbanach.com**
 
 - ⚡ Fun fact **I like fishing and cars**
 
