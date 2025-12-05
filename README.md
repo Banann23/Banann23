@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Portfolio Website**
 
-- 🌱 I’m currently learning **React, Typescript and Tailwind CSS**
+- 🌱 I’m currently learning ** Typescript and Tailwind CSS**
 
 - 📫 How to reach me **contact@hbanach.com**
 
