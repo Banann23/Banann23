@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hubert</h1>
 <h3 align="left">IT-Specialist, Front-end & Mobile Developer</h3>
 
-- 🔭 I’m currently working on **WeatherVibez project**
+- 🔭 I’m currently working on **WeatherVibez project** (React, JavaScript, Tailwind)
 
 - 🌱 I’m currently learning **Typescript and Tailwind CSS**
 
@@ -9,7 +9,7 @@
 
 - 🌐 My portfolio website: [hbanach.com](https://www.hbanach.com)
 
-- ⚡ Fun fact **I like fishing and cars**
+- ⚡ Fun fact **I like fishing and old japanese cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
