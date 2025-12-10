@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hubert</h1>
 <h3 align="left">IT-Specialist, Front-end & Mobile Developer</h3>
 
-- 🔭 I’m currently working on **WeatherVibez project** (React, JavaScript, Tailwind)
+- 🔭 I’m currently working on **WeatherVibez** (React, JavaScript, Tailwind) and **JCARZZ** (React, JavaScript) projects
 
 - 🌱 I’m currently learning **Typescript and Tailwind CSS**
 
